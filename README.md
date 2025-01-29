@@ -1,4 +1,4 @@
-# Python to CodingApple
+# Study Python
 
 > 파이썬을 공부하자!
 
